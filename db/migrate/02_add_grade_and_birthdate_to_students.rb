@@ -1,4 +1,4 @@
-class CreateStudents < ActiveRecord::Migration[5.1]
+class AnotherClass < ActiveRecord::Migration[5.1]
   
 
 
