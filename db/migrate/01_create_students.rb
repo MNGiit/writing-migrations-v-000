@@ -8,7 +8,7 @@ class CreateStudents < ActiveRecord::Migration[5.1]
       t.integer :birthdate
     end
   end
-end
+
 
   
   
